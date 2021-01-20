@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hewan</string>
+    <string name="image_splashscreen">Image_Splashscreen</string>
+    <string name="nama_hewan">Nama Hewan</string>
+    <string name="detail">Detail</string>
+    <string name="Hewan_detail">Detail Hewan</string>
+    <string name="textNama">TextView</string>
+    <string name="textDetailHewan">TextView</string>
+    <string name="profile">Profile</string>
+
+    <string name="Nama_saya">Supria</string>
+    <string name="Email_saya">phiya@polbeng.ac.id</string>
+    <string name="title_about_detail">Contact Person \n  \nTwitter \nInstagram \nLinkedIn \n \nDicoding \n </string>
+    <string name="about_detail">\n \n@phiya_ly \n@phiya_12 \nhttps://www.linkedin.com/in/supria-pia-a12023133/  \nhttps://www.dicoding.com/users/supria </string>
+</resources>
